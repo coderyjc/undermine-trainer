@@ -1,0 +1,67 @@
+"Tincture" 恢复健康 Item: f3c6fcf6f86a44178c4649f71fb5d18f Potion: f88f1626a156460c9d793a790f3eadbc
+"Apprentice's Tincture" 恢复任意数量的生命值 Item: 27b4611c53e04c0a9d771b76d47d7deb Potion: 6633b8cd44ac4d729b381691ccc0d159
+"Salvaging Sludge" 为每个携带的诅咒恢复生命值 Item: cea67360abf84347a264ef64ed806e58 Potion: 34dd71878c07441ea02fd8f0cbe2e813
+"Troll Sweat" 随着时间的推移恢复健康 Item: bfe7c47be6fc4bdbb86e364a6b1cf076
+"Ghostly Ichor" 随着时间的推移，每次诅咒都会愈合 Item: d2c408e370584302b135fc159d6b0b25
+"Cure All" 创造一个愈合的循环 Item: db3a699d040b4fd6a4a64399f1275d61 Potion: e7be129bf8754747b40619a2b2708e78
+"Coffee" 恢复健康与失去健康成比例 Item: a3f7691e471243ed899c52b5ae1bc2de Potion: 4a1995bed1ec403692082d1dd839cc31
+"Elixir" 恢复所有丢失的生命值 Item: f84e9f7aa7b04c648a08c6b75eebaf2e Potion: 6cfb55f11bc74fdea6690b19608c377a
+"Rainbow Kernels" 复制房间里几乎所有的东西 Item: 27497c3cdd91494ba066eb45ee59d528 Potion: 0f00680feaf340518a0185d4cf9038e4
+"Golden Kernels" 复制房间里所有的金子 Item: 0455a3d8711146e3a479e71d4d37954b Potion: 9aa1438f3c1b4e6196f402d7aeb4cb6c
+"Popcorn Kernels" 复制房间中的所有基本项目 Item: dc421ae2fb974a01b8cc4b2a9093244e Potion: fd7752c4994c45619c031d90235718ad
+"Seasoned Kernels" 复制房间里所有的食物 Item: 908bacbc988a46559da7ef9f4fe8e042 Potion: 1b76796f7c414aa59ab6b68409db7f04
+"Whiplash Serum" 暂时增加投掷伤害 Item: 5638e38a67e04f4eaec6473d5042890f
+"Strength Serum" 暂时增加挥杆伤害 Item: fb789e8f36a349f1a71ceb2e9c1e3f46
+"Savagery Serum" 暂时增加致命几率 Item: 5178abb3de614cb59411b8144fd2dc32
+"Alacrity Serum" 暂时提高攻击速度 Item: 00772a2e1a7d4755a76e8183b1d6b0ce
+"Sundering Serum" 临时增加摆动大小 Item: 44cd9c54d22c4ab289b5edf7b4fe40f4
+"Cyclonic Serum" 暂时增加掷骰大小 Item: fe0fbfc6bceb4a2f91ea280ba82f7d38
+"Durability Serum" 暂时增加健康 Item: 617b7758377d4230a24823645d3898f4
+"Holy Water" 解除诅咒 Item: df251e38396f44119823faa3840db809 Potion: 60a5a77f8af54d00b1d982fe2a204000
+"Purge Potion" 移除诅咒并造成75点伤害。 Item: e99410fecfac4015b5504ec3b87b5cd0 Potion: 3c15a213161d4953a1d349547efdeaf0
+"Purification Potion" 移除所有诅咒、炸弹、钥匙，并将生命值设置为1 Item: 2d9d51a29ebe40a99d37445de1954951 Potion: 2606cf0ab8434449950613f159043109
+"Aether" 移除特定的诅咒 Item: 7ca4f0f6567c4b348fd6ccae072dbded Potion: f4bed4addab44aa1a3d83e12caa7be28
+"Absolution" 如果你有5个诅咒，移除5个诅咒 Item: 28737e052b414273a67aca33267fc2e7 Potion: a07b25919d62486c9455501a06488ff9
+"Doubling Saison" 加倍你的炸弹 Item: b0dd99d6f5184fb49df441af4bf298a5 Potion: 4afff03f79404bb2982406e5336e5806
+"Impish Key Bomb" 交换你的物品 Item: f34771cdd3514f379f42355fb1b4a41d Potion: 48b58600a508424c936037336889cdf0
+"Iron Glaze" 平均持有钥匙和炸弹的数量 Item: 20d260544d224607b1f2363d06def2a0 Potion: 3f464ee7b0af4f96af31dd602136ea95
+"Holy Glaze" 平均所有祝福的等级 Item: 2caf27e525fa4787bd629282ef202094 Potion: 4e9a0816109743aba853ce4e9c977ea9
+"Ambrosia" 将随机祝福的等级提高一倍 Item: 15ca0afa442849328a5a8ff6411b301a Potion: 5f024f76f7dc46d29147cc366a439fba
+"Nitroglycerin" 不断投弹 Item: 87304ff317824d638d8c2a591b5ce37b
+"Auglycerin" 黄金不断下跌 Item: 1c0df4b6c9f2494c8eb2376ec97ca4fb Potion: aa208069905d445f91fe4cce2e256d69
+"Immolation Potion" 燃烧附近的敌人 Item: 4673c7f91a7b4d35b8ebe30a16ce650a
+"Float Potion" 避免掉进洞里 Item: d42df1015fa04546bfd1cc0958cfc34b
+"Selt's Blood" 产卵幼虫 Item: b994f67a8e3f44578e1899cd043e3997 Potion: 88bb14b45afc465da693b1f5a3b65e24
+"Blood Chalice" 消耗25%的生命值，掉落物品，有时还会掉落另一个血杯。 Item: 0b736c7fe4974e65a08cd5c0ab189929 Potion: 2d3b1658f27b44b783c292b8b3f3853a
+"Fury Potion" 发射火球 Item: 12784fa0c4a949fdadf21288bc5ec170 Potion: 658b2e66edb44bccb589c45d3df68e94
+"Antimatter" 下一次你受到伤害的时候，获得那么多的生命值 Item: 5f8cb66127e74d0baff7a1ba5b4cf972
+"Bottled Pilfer" 释放一个囤积的盗贼 Item: 05572761ed6d4d4f91203cd46f890adf Potion: e10e9968a7294d168a4563a6415b045c
+"Shop in a Bottle" 发现秘密商店 Item: bcfda0149d944afcb246305be2695172 Potion: d13669b1ac7b45838746a8b6bf89867c
+"Bottles in a Bottle" 放下两瓶药水 Item: f83096ef1b674f6c832dec65a4a3d758 Potion: 383721ef682c4c8cbe6a5f7e2a6b4873
+"Chest in a Bottle" 投下一个随机的箱子 Item: 15c7f082e7454fc38695e6152782bbf9 Potion: 5d63c4ad96d74c929963a04aee6a22b2
+"TRANSMUT3 in a Bottle" 将TRANSMUT3添加到房间中 Item: cda68d3762ef4aa6bc5b00e2f8eeec6d Potion: b6739892a5f9444eb76a96b80870143c
+"Altar in a Bottle" 生出祭坛 Item: f05bebbd21e04c468299c7763704f332 Potion: 222727a1ac6c442bbef0635162cff95b
+"Doppelbock" 召集一个替身和你一起工作 Item: 6da20a3b58c3488c8b764ae90689cb04
+"Transmutagen" 改变房间里所有的遗迹 Item: b12beb42d1b549e392b00d00a01520c9 Potion: 3f3c01172dd845898f00cac3ae8c224e
+"Metamorphim" 转化随身携带的遗物 Item: a72e7b460e8649b08298d8c4bf15f349 Potion: c54185b068ad4dd5a99ed6ca6687b658
+"Mighty Metamorphim" 转化所有携带的文物 Item: 06eea0e248e74a249d1fe9b3c92d0b70 Potion: 72289e0235014c3db6964048fdc3a611
+"Circle of Transmutation" 在一个小圆圈中转换物品，但使其易碎 Item: 8a91e7875f294cb280f34898b5594f2d Potion: 1ec33c9a63e6451f8ab6b59d85b95087
+"Berserker's Brew" 造成并承受更多的伤害 Item: 200012b4fdb74289b228f292193cf146
+"Ghost Pepper Sauce" 免疫火焰伤害并点燃自己 Item: b9c7849437254fcbbe60ab61143f1de5
+"Toadvine's Tonic" 对毒药免疫，如果你能活下来的话 Item: 2849e0d8002e4800936de05abbde0ed7 Potion: edb2515c037e4c849618926d13f201e4
+"Numbing Cream" 减少来袭伤害 Item: 9c0401cc3c9a4188a6b3c800215b557d
+"Potion of True Sight" 发现附近的秘密 Item: e50bae2f580c4159a881f6c7852ca586
+"Potion of Plenty" 扔掉一些有用的东西 Item: 8372b8d3152445afa410b7bb9dbd45a8 Potion: e9f869553031481faf86e6b3ada7e75e
+"Protein Shake" 滴一些蛋白质 Item: 84e344cdca10420a9db29efbd3d1dc72 Potion: ca789a9a294d4ed9b83c997071cae608
+"Blessed Blend" 投下祝福 Item: a716c2ee1f634d74af7cc84ff341d374 Potion: 8e75ca40d7eb460c92f99829ffa94f88
+"Toxin" 在你的武器上涂上毒药 Item: 4bbe9f7680b34a17a1ca6dfc90c725e7
+"Witch's Brew" 被诅咒 Item: c0a32814b2e24d15a63664bcdc949d26 Potion: b059c170ca1c438782536ec456704c52
+"Freeloader Draught" 不劳而获 Item: 145bde979116479fabc648bebf584e32 Potion: f6956009d6504b7384eebfa9a3198290
+"Biscuits" 为了获得熟悉的经验。 Item: 6a41bdb034dd45549825a7b4f9198362
+"Midas Touch" 一切敌人都会变成金子 Item: 17392f3e7d05485a800ddcd201bfb98c Potion: 174e5d81496d4f128eb2dd6c738aa991
+"Kiss of the Succubus" 杀死所有敌人并偷走他们的生命 Item: 4f9154518bfe4a0ebd09e57aef8ebdf9 Potion: 0dd6ce41255748ccab851155aa142a48
+"All-Potion" 是你想要的东西 Item: 5829b0cc3f6149da9649aa302cf7ca57 Potion: d20987dc2f31431984773ffc281a24fc
+"Some-Potion" 是你需要的东西，有时候 Item: ee6c6499fedf45d891ce5c3ee09b2da3 Potion: 95a9f12d93d74012aea2606ce100d7cc
+"Starlight Sip" 把天堂拉到你的敌人身上 Item: 1cfe53e981a24b7cbbad91669f5ac52e Potion: f1958e6f5d4e416497dc7d40b5489bce
+"Churchbell Nectar" 创建一个临时的丘吉尔盾牌 Item: 43f16c0b6aa94743a87c235025a7f98d Potion: 997f751df83546eb9c17daee9a6718de
+"Pangolin Potion" 重新填充四个装甲点 Item: 4c8d7e3454124c4aab32c45bf05edc8b Potion: 2dfc460581634d6f8213760584e8d21c

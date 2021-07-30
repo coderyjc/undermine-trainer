@@ -1,0 +1,64 @@
+"Arachnophobia" 蜘蛛死后，敌人就会释放蜘蛛 Item: 42ce36751420492584d4a447c129e30c Effect: 650d6e533504428b8076fdf9fbccbff9
+"Ostiophobia" 骨架比你想要的多 Item: 795d8f21d88e4f1c95307dbf9c69fa6a Effect: 4bcaa153e85049ffb63260bf04be4060
+"Metamfiezomaiophobia" 比你想要的更多的模仿 Item: 4c811aa722884d6ab36404edf9c79eb1 Effect: 674c74f67e99474aafba25b424be2e8a
+"Dead Man's Switch" 敌人被杀时会射箭 Item: 1fba0d8e9d614a178d17b2bfbff536cb Effect: e25953ac80b24019a332248231406eab
+"Sweaty Palms" 当你受到伤害时失去炸弹的机会 Item: a73024497040468a9daf7790a9167b1e Effect: 4e1049ea39144c578bc0916671bb28b1
+"Sweaty Fingers" 受到伤害时有机会丢失钥匙 Item: 3bf7b541f02f4bbb9c7bafebdb7fd41e Effect: 7832d137109c4710b2a1d50c7ac54eb5
+"Pilfer's Nightmare" 新的和更危险的偷窃 Item: cef6755dbc2e415e8cdff8cfbe1a4a58 Effect: 8a3fb50ea6d941cf94b4c2b96b8b3161
+"Relic Eater" 杀死敌人会摧毁一个遗迹 Item: af4d151c98bc4eb9841767e2e4cd643b Effect: b15f297d2be44a8ba25d03a1841f8eb5
+"Blessing Eater" 杀敌毁福 Item: a6d6119f24ab44b5ac3e292c66b039c3 Effect: ae4ceb9fe5e14f9f91dcc576cae24a06
+"Item Eater" 杀死敌人会摧毁物品 Item: 3cebb72f2cb94342aa1c6c2d455fa8f8 Effect: 1f7b5d274546445e88897129cb42b33c
+"Tariffs" 所有费用加倍 Item: 861f2ce31df64b76b15c9e143c60be23 Effect: 9c143a082f204e0eb6220fc3314b77a1
+"Inflation" 增加商店物品的成本 Item: 18c02d8c98514cd7b3a6e35683a63462 Effect: 1ef2ded4c7284589a2b54c9ae1fb54e6
+"Market Crash" 增加商店物品的成本 Item: f127a5676b15448cb31eef774e4866a3 Effect: 15fc0bacc9a04d9db15883beec141760
+"Poverty" 减少收到的黄金数量 Item: 2ee178171a0542c1b0b33c3638bc882b Effect: 1060b8aae45c457db34c9e882a7cf89e
+"Low Stock" 减少购物选择 Item: 00724b8396b24ddda26cac3b27ca8d41 Effect: 524dc2e94cb3435baa50038dd48c321e
+"Blood Pact" 放置炸弹的健康成本 Item: 5c58a6d3e7184a0c9b5a31ca08a5ee12 Effect: 3745356bd92e4ef791d2d0ae0fc8efbd
+"Powder Shortage" 投一颗炸弹需要2颗炸弹 Item: c222d9dab4f4499a9ed5f894b172e5f8 Effect: 08ab291ae510459fb2f1b5e44904ffb0
+"Rain of Fire" 火从天上落下来 Item: f8c5ec2536e648989e3ee6aa6b08b57d Effect: 3b26ef08b08b420891b410526d668ebe
+"Waking Light" 火把和灯笼点燃火球 Item: 3f24c4e8d3254df8b6d13b0cd38acf3f Effect: bf5f922ae4e24356b29a2aea8d1cb4a6
+"Salamander's Wrath" 所有的敌人都点燃了农民 Item: 4d7cb97a86be4113b6fe61a97550247b Effect: 2909d776ac2243148c7990f474c83102
+"Fast Metabolism" 减少药剂持续时间 Item: b578c14ad2b4493a8e8187c46e675f16 Effect: 72b15e34f352461c89ce554d2806d559
+"Hay Fever" 感受植物的愤怒 Item: e5cab55662104cff98f724855e674cbb Effect: b56af0ddcc16443caa576a1db872f479
+"Venomous" 所有敌人都会中毒 Item: 9d0586c51fb540aabe6a58e6064aa991 Effect: a04fae1442e34960baced60906b95ec8
+"Plague" 生食效果较差，有可能中毒 Item: beeaeaf000bf435683c5c5293932c496 Effect: cead863547fb479e87a6f10a87155db1
+"Tenderfoot" 跳跃时承受伤害 Item: 1533ba9d0d294c1f8c93ed4ae245e9df Effect: 59a8224ae2d24270b43e281fbf45aed6
+"Empty Coffers" 箱子有时是空的 Item: bd9d1797ebd8411aa82ba727cb8a6e94 Effect: 1ddf8b30a2b14192a93c9034950319c3
+"Rigged" 胸部被困的次数更多 Item: 32f39a9ff9f54295a3fe7c42e5b2ad5d Effect: c975aff56bfd400c900d5c84cf170250
+"The Crumbles" 物品变得格外易碎 Item: 4d5eb4480bdc4ab3b36087fbc9926e69 Effect: c2c574fbc30144789da581b3a2d53610
+"Poison Mushroom" 杀死敌人时失去最大生命值 Item: 682d41064792492b9cf351de9bd8a405 Effect: ba6ac42caecb4193bfab61120b2cbc23
+"Haunted Locks" 使用密钥需要花费健康成本 Item: 8138983272d648e9b47995a8c7b5324c Effect: 8a807e86856b4d22b5c4425f3c3630fc
+"Lethargy" 减少挥杆伤害 Item: 852d2b8abf6446ad81e078472f503b2d Effect: aa3c4135f42848ecb93429f22ff749f4
+"Weakness" 减少挥杆伤害 Item: d0cc30fbf196423ea49170a2995e0549 Effect: 2fc65faad4a642e697ae54d8f026bee2
+"Imbalance" 减少投掷伤害 Item: 7dc2f7af7fd34fe3b6d5d92f30d20acd Effect: 33fdcb7e9b71475eb8ba55748a430516
+"Wobbly" 减少投掷伤害 Item: 0ff4a9c19f294ce4ba489c447ad8df43 Effect: 10308dab939c404da05f7d6a85987bd1
+"Mediocrity" 不能再进行暴击 Item: f4b43b06f1c34576820b596a38dd4a17 Effect: 2d6085afbf5b4e948768f42a1b28a3ca
+"Frailty" 最大生命值降低 Item: 2976adb134a24dd9bce3cdcc1837fc81 Effect: ebca0710179f4382ad7a70a78aa14980
+"Enfeebled" 最大生命值降低 Item: 70c32c9d2d394c40bfca62485390363b Effect: 9ddcfe0f4562461c9ffcdd1f47878f16
+"Illness" 治疗效果较差 Item: 1e7be481409349c9bfd91d83372ca68b Effect: 107606f718064785af45bd81cb91c1e7
+"Fever" 治疗效果较差 Item: 6d39054e84bf4b909ed76e6112921e4a Effect: 4e8b9293d54348da98464840629df9ca
+"Clumsiness" 死后失去更多的黄金 Item: 31fa6f68d67349c0a54e1fae385a4b9a Effect: 883577bb502e4ba69ad88eff54306b19
+"Ineptitude" 死后失去更多的黄金 Item: e8cff42469714a73b49def4009b3dfd9 Effect: 5e4de46088364e4d95ce10f93e89d93c
+"Brittleness" 受到更多的伤害 Item: 6e21a8d6949f41a5b91e7f3c15db231a Effect: 7d64fc2bf3d542ec8638fde4d5aa64d4
+"Vulnerable" 遭受更多的损害 Item: a99c2000ab1b4b6bb2d655e83fa30fca Effect: 79524a425882498ca70761121f434eaa
+"Blisters" 降低投掷速度 Item: b3da0dca60f54906a6ea1db94d4b75ef Effect: 506489bb36ce432ca656e1a73f3b246e
+"Miner's Shoulder" 降低投掷速度 Item: 1515f76a45c8453cbcb0b3b952d42c90 Effect: f734c4d062cc4610839714515aea90c3
+"Joint Pain" 降低摆动速度 Item: 15b3dd56f7074a699c94628b4701ecba Effect: bf0c699b238042aa9f5f9b35f2a5b43e
+"Arthritis" 降低摆动速度 Item: bbc5177fbd0b491fa5656d64ae532644 Effect: 102f828aaba7466a8016dd9754de7a25
+"Spatial Sickness" 命中时传送 Item: feb2d714e03142aeb48fdde2afc25fd1 Effect: 179e0fb393a641a98a878a39de94f6a1
+"Bottle Blight" 对你的每种药水，每个房间都要承受伤害 Item: 8396a93bb7214647a3dc381a94ca193d Effect: 3c53be2da36248b4b6afc124725fbba5
+"Compulsion" 所有的药水在取药时自动饮用 Item: 905c0ea8343d4feeb7957191761d8338 Effect: 4d72bf084ef1497ca2e1759a1adf8747
+"Bottle Stopper" 少带药水 Item: 9e441be8838144b285b6e6923f8ba8b8 Effect: 5e543ddf07fd4511b1614b45008aa27a
+"Mutation" 文物被制成药剂 Item: 5a07ac0e26914e5ab472cc79e9a97fe8 Effect: f1675c52530e404d949eccbb9d83b3ad
+"Secrecy" 密室甚至更为秘密 Item: d07217e8683c4309a16192b22cda8add Effect: cf3e89d9e77b41589562def9af731222
+"Security Theater" 这家商店锁得很紧 Item: fe4f7657e9a643aab2030836e77fb571 Effect: fe4e9ca092d640a2ad2a1372219a3b13
+"Explosive Decompression" 当进入一个房间时，所有的矿石都被开采出来 Item: cbb64a4dc4da4587b3273a50c2a53cc3 Effect: 3676c755578340b0a8d80c2938bffc23
+"Vertigo" 受到更大的坠落伤害 Item: bc80dc90e70d46d299f4cb8566a8a777 Effect: e1767d1b69ee47c59559201aa8763444
+"Nullification" 禁用2件文物 Item: 66435b8332c74c03b06d5039e2962a99 Effect: 09aecbb2a36c47e9b3c89bcd9253343e
+"Dark Cloud" 禁用2个祝福 Item: ffc9fe14d44d434a96624680938fd416 Effect: be6d615df5dd4f308201aee1211428b2
+"Uncreative" 祭坛上只有一种祝福 Item: 4b2977e42e734855acf1e71deefa8e63 Effect: 75c7974d263844e5893bce93583850a5
+"Malicious Intent" 忏悔的费用是原来的两倍 Item: 56e0afaaf92f45d1ba97f83547bd8b23 Effect: f3b68b4235a84381858500754fd3dcf5
+"Bloodied Locks" 锁定成本转换为健康成本 Item: 09d0e4e531c64e7e8e29ba73fb6b7c11 Effect: 9728683655fd4f0094bd1fec56e4fbf1
+"Blood Offering" 商店费用被转换为健康费用 Item: b68c50e2d9584edea52fae690c472ee7 Effect: 9354e282de7d43a9884c9a3b7f32f807
+"Debt" 欠小偷的未付债务 Item: d08db904b48e4c2f9a35f8d8fc5dbaab Effect: 3908f81afc6d4e12a16d27fdbe05758d
+"Momentary Peril" 将运行状况临时设置为1 Item: c018be94e7ec43c99bafd374f5bd4687 Effect: 0037ed70f57f4ba299f159bfe7be1b43
