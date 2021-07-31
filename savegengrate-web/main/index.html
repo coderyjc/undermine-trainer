@@ -5,11 +5,110 @@
 		<link rel="stylesheet" href="./css/index.css">
 		<link rel="stylesheet" type="text/css" href="./lib/layui-v2.6.8/layui/css/layui.css"/>
 		<script src="./lib/layui-v2.6.8/layui/layui.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/relics.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/blessings.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/potions.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/familiar.js" type="text/javascript" charset="utf-8"></script>
 		<title>Undertale-存档生成器</title>
 	</head>
+	
 	<body>
+		<div class="head">
+			<h1>存档生成器</h1>
+		</div>
+
+		<!-- 圣物 -->
+		<script type="text/html" id="relicToolbar">
+		  <div class="layui-btn-container">
+		    <button class="layui-btn layui-btn-sm" lay-event="getAllRelics">从选中遗物生成存档数据</button>
+		  </div>
+		</script>
 		
+		<script type="text/html" id="relicBar" lay-filter='relicBar'>
+		  <a class="layui-btn layui-btn-xs" lay-event="relic-save">获取存档信息</a>
+		</script>
 		
+		<!-- 祝福 -->
+		<script type="text/html" id="blessingToolbar">
+		  <div class="layui-btn-container">
+		    <button class="layui-btn layui-btn-sm" lay-event="getAllblessings">从选中祝福生成存档数据</button>
+		  </div>
+		</script>
 		
+		<script type="text/html" id="blessingBar" lay-filter='blessingBar'>
+		  <a class="layui-btn layui-btn-xs" lay-event="blessing-save">获取存档信息</a>
+		</script>
+		
+		<script type="text/html" id="blessingLevel" lay-filter='blessingLevel'>
+		<div class="layui-form-item">
+		    <div class="layui-inline">
+		      <div class="layui-input-inline">
+		        <input type="number" id="blessingLevelInput" name="level" class="layui-input" value="10">
+		      </div>
+		    </div>
+		  </div>
+		</script>
+		
+		<!-- 药水 -->
+		<script type="text/html" id="potionToolbar">
+		  <div class="layui-btn-container">
+		    <button class="layui-btn layui-btn-sm" lay-event="getAllPotions">从选中药水生成存档数据</button>
+		  </div>
+		</script>
+		
+		<script type="text/html" id="potionBar" lay-filter='potionBar'>
+		  <a class="layui-btn layui-btn-xs" lay-event="potion-save">获取存档信息</a>
+		</script>
+		
+		<!-- 伙伴 -->
+		<script type="text/html" id="familiarToolbar">
+		  <div class="layui-btn-container">
+		    <button class="layui-btn layui-btn-sm" lay-event="getAllfamiliars">从选中药水生成存档数据</button>
+		  </div>
+		</script>
+		
+		<script type="text/html" id="familiarBar" lay-filter='familiarBar'>
+		  <a class="layui-btn layui-btn-xs" lay-event="familiar-save">获取存档信息</a>
+		</script>
+		
+<!-- 主界面 -->		
+		<div class="main">
+		<!-- 副本信息配置 -->
+			
+			<div class="layui-collapse" lay-accordion="">
+				<div class="layui-colla-item">
+				  <h2 class="layui-colla-title">基础信息</h2>
+				  <div class="layui-colla-content layui-show">
+					  基础信息
+				  </div>
+				</div>
+			  <div class="layui-colla-item">
+			    <h2 class="layui-colla-title">圣物</h2>
+			    <div class="layui-colla-content layui-show">
+					<table lay-filter='relics' class="layui-hide" id="relics"></table>
+			    </div>
+			  </div>
+			  <div class="layui-colla-item">
+			    <h2 class="layui-colla-title">祝福</h2>
+			    <div class="layui-colla-content layui-show">
+					<table lay-filter='blessings' class="layui-hide" id="blessings"></table>
+			    </div>
+			  </div>
+			  
+			  <div class="layui-colla-item">
+			    <h2 class="layui-colla-title">药水</h2>
+			    <div class="layui-colla-content layui-show">
+					<table lay-filter='potions' class="layui-hide" id="potions"></table>
+			    </div>
+			  </div>
+			  
+			  <div class="layui-colla-item">
+			    <h2 class="layui-colla-title">伙伴</h2>
+			    <div class="layui-colla-content layui-show">
+					<table lay-filter='familiars' class="layui-hide" id="familiars"></table>
+			    </div>
+			  </div>
+			</div>
+		</div>
 	</body>
 </html>

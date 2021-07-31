@@ -1,0 +1,409 @@
+{
+	"code": 0,
+	"msg": "success",
+	"count": 157,
+	"data": [
+		{
+			"name": "Tincture",
+			"description": "恢复健康",
+			"item-id": "f3c6fcf6f86a44178c4649f71fb5d18f",
+			"effect-id": "f88f1626a156460c9d793a790f3eadbc"
+		},
+		{
+			"name": "Apprentice's Tincture",
+			"description": "恢复任意数量的生命值",
+			"item-id": "27b4611c53e04c0a9d771b76d47d7deb",
+			"effect-id": "6633b8cd44ac4d729b381691ccc0d159"
+		},
+		{
+			"name": "Salvaging Sludge",
+			"description": "为每个携带的诅咒恢复生命值",
+			"item-id": "cea67360abf84347a264ef64ed806e58",
+			"effect-id": "34dd71878c07441ea02fd8f0cbe2e813"
+		},
+		{
+			"name": "Troll Sweat",
+			"description": "随着时间的推移恢复健康",
+			"item-id": "bfe7c47be6fc4bdbb86e364a6b1cf076",
+			"effect-id": "bfe7c47be6fc4bdbb86e364a6b1cf076"
+		},
+		{
+			"name": "Ghostly Ichor",
+			"description": "随着时间的推移，每次诅咒都会愈合",
+			"item-id": "d2c408e370584302b135fc159d6b0b25",
+			"effect-id": "d2c408e370584302b135fc159d6b0b25"
+		},
+		{
+			"name": "Cure All",
+			"description": "创造一个愈合的循环",
+			"item-id": "db3a699d040b4fd6a4a64399f1275d61",
+			"effect-id": "e7be129bf8754747b40619a2b2708e78"
+		},
+		{
+			"name": "Coffee",
+			"description": "恢复健康与失去健康成比例",
+			"item-id": "a3f7691e471243ed899c52b5ae1bc2de",
+			"effect-id": "4a1995bed1ec403692082d1dd839cc31"
+		},
+		{
+			"name": "Elixir",
+			"description": "恢复所有丢失的生命值",
+			"item-id": "f84e9f7aa7b04c648a08c6b75eebaf2e",
+			"effect-id": "6cfb55f11bc74fdea6690b19608c377a"
+		},
+		{
+			"name": "Rainbow Kernels",
+			"description": "复制房间里几乎所有的东西",
+			"item-id": "27497c3cdd91494ba066eb45ee59d528",
+			"effect-id": "0f00680feaf340518a0185d4cf9038e4"
+		},
+		{
+			"name": "Golden Kernels",
+			"description": "复制房间里所有的金子",
+			"item-id": "0455a3d8711146e3a479e71d4d37954b",
+			"effect-id": "9aa1438f3c1b4e6196f402d7aeb4cb6c"
+		},
+		{
+			"name": "Popcorn Kernels",
+			"description": "复制房间中的所有基本项目",
+			"item-id": "dc421ae2fb974a01b8cc4b2a9093244e",
+			"effect-id": "fd7752c4994c45619c031d90235718ad"
+		},
+		{
+			"name": "Seasoned Kernels",
+			"description": "复制房间里所有的食物",
+			"item-id": "908bacbc988a46559da7ef9f4fe8e042",
+			"effect-id": "1b76796f7c414aa59ab6b68409db7f04"
+		},
+		{
+			"name": "Whiplash Serum",
+			"description": "暂时增加投掷伤害",
+			"item-id": "5638e38a67e04f4eaec6473d5042890f",
+			"effect-id": "5638e38a67e04f4eaec6473d5042890f"
+		},
+		{
+			"name": "Strength Serum",
+			"description": "暂时增加挥杆伤害",
+			"item-id": "fb789e8f36a349f1a71ceb2e9c1e3f46",
+			"effect-id": "fb789e8f36a349f1a71ceb2e9c1e3f46"
+		},
+		{
+			"name": "Savagery Serum",
+			"description": "暂时增加致命几率",
+			"item-id": "5178abb3de614cb59411b8144fd2dc32",
+			"effect-id": "5178abb3de614cb59411b8144fd2dc32"
+		},
+		{
+			"name": "Alacrity Serum",
+			"description": "暂时提高攻击速度",
+			"item-id": "00772a2e1a7d4755a76e8183b1d6b0ce",
+			"effect-id": "00772a2e1a7d4755a76e8183b1d6b0ce"
+		},
+		{
+			"name": "Sundering Serum",
+			"description": "临时增加摆动大小",
+			"item-id": "44cd9c54d22c4ab289b5edf7b4fe40f4",
+			"effect-id": "44cd9c54d22c4ab289b5edf7b4fe40f4"
+		},
+		{
+			"name": "Cyclonic Serum",
+			"description": "暂时增加掷骰大小",
+			"item-id": "fe0fbfc6bceb4a2f91ea280ba82f7d38",
+			"effect-id": "fe0fbfc6bceb4a2f91ea280ba82f7d38"
+		},
+		{
+			"name": "Durability Serum",
+			"description": "暂时增加健康",
+			"item-id": "617b7758377d4230a24823645d3898f4",
+			"effect-id": "617b7758377d4230a24823645d3898f4"
+		},
+		{
+			"name": "Holy Water",
+			"description": "解除诅咒",
+			"item-id": "df251e38396f44119823faa3840db809",
+			"effect-id": "60a5a77f8af54d00b1d982fe2a204000"
+		},
+		{
+			"name": "Purge Potion",
+			"description": "移除诅咒并造成75点伤害。",
+			"item-id": "e99410fecfac4015b5504ec3b87b5cd0",
+			"effect-id": "3c15a213161d4953a1d349547efdeaf0"
+		},
+		{
+			"name": "Purification Potion",
+			"description": "移除所有诅咒、炸弹、钥匙，并将生命值设置为1",
+			"item-id": "2d9d51a29ebe40a99d37445de1954951",
+			"effect-id": "2606cf0ab8434449950613f159043109"
+		},
+		{
+			"name": "Aether",
+			"description": "移除特定的诅咒",
+			"item-id": "7ca4f0f6567c4b348fd6ccae072dbded",
+			"effect-id": "f4bed4addab44aa1a3d83e12caa7be28"
+		},
+		{
+			"name": "Absolution",
+			"description": "如果你有5个诅咒，移除5个诅咒",
+			"item-id": "28737e052b414273a67aca33267fc2e7",
+			"effect-id": "a07b25919d62486c9455501a06488ff9"
+		},
+		{
+			"name": "Doubling Saison",
+			"description": "加倍你的炸弹",
+			"item-id": "b0dd99d6f5184fb49df441af4bf298a5",
+			"effect-id": "4afff03f79404bb2982406e5336e5806"
+		},
+		{
+			"name": "Impish Key Bomb",
+			"description": "交换你的物品",
+			"item-id": "f34771cdd3514f379f42355fb1b4a41d",
+			"effect-id": "48b58600a508424c936037336889cdf0"
+		},
+		{
+			"name": "Iron Glaze",
+			"description": "平均持有钥匙和炸弹的数量",
+			"item-id": "20d260544d224607b1f2363d06def2a0",
+			"effect-id": "3f464ee7b0af4f96af31dd602136ea95"
+		},
+		{
+			"name": "Holy Glaze",
+			"description": "平均所有祝福的等级",
+			"item-id": "2caf27e525fa4787bd629282ef202094",
+			"effect-id": "4e9a0816109743aba853ce4e9c977ea9"
+		},
+		{
+			"name": "Ambrosia",
+			"description": "将随机祝福的等级提高一倍",
+			"item-id": "15ca0afa442849328a5a8ff6411b301a",
+			"effect-id": "5f024f76f7dc46d29147cc366a439fba"
+		},
+		{
+			"name": "Nitroglycerin",
+			"description": "不断投弹",
+			"item-id": "87304ff317824d638d8c2a591b5ce37b",
+			"effect-id": "87304ff317824d638d8c2a591b5ce37b"
+		},
+		{
+			"name": "Auglycerin",
+			"description": "黄金不断下跌",
+			"item-id": "1c0df4b6c9f2494c8eb2376ec97ca4fb",
+			"effect-id": "aa208069905d445f91fe4cce2e256d69"
+		},
+		{
+			"name": "Immolation Potion",
+			"description": "燃烧附近的敌人",
+			"item-id": "4673c7f91a7b4d35b8ebe30a16ce650a",
+			"effect-id": "4673c7f91a7b4d35b8ebe30a16ce650a"
+		},
+		{
+			"name": "Float Potion",
+			"description": "避免掉进洞里",
+			"item-id": "d42df1015fa04546bfd1cc0958cfc34b",
+			"effect-id": "d42df1015fa04546bfd1cc0958cfc34b"
+		},
+		{
+			"name": "Selt's Blood",
+			"description": "产卵幼虫",
+			"item-id": "b994f67a8e3f44578e1899cd043e3997",
+			"effect-id": "88bb14b45afc465da693b1f5a3b65e24"
+		},
+		{
+			"name": "Blood Chalice",
+			"description": "消耗25%的生命值，掉落物品，有时还会掉落另一个血杯。",
+			"item-id": "0b736c7fe4974e65a08cd5c0ab189929",
+			"effect-id": "2d3b1658f27b44b783c292b8b3f3853a"
+		},
+		{
+			"name": "Fury Potion",
+			"description": "发射火球",
+			"item-id": "12784fa0c4a949fdadf21288bc5ec170",
+			"effect-id": "658b2e66edb44bccb589c45d3df68e94"
+		},
+		{
+			"name": "Antimatter",
+			"description": "下一次你受到伤害的时候，获得那么多的生命值",
+			"item-id": "5f8cb66127e74d0baff7a1ba5b4cf972",
+			"effect-id": "5f8cb66127e74d0baff7a1ba5b4cf972"
+		},
+		{
+			"name": "Bottled Pilfer",
+			"description": "释放一个囤积的盗贼",
+			"item-id": "05572761ed6d4d4f91203cd46f890adf",
+			"effect-id": "e10e9968a7294d168a4563a6415b045c"
+		},
+		{
+			"name": "Shop in a Bottle",
+			"description": "发现秘密商店",
+			"item-id": "bcfda0149d944afcb246305be2695172",
+			"effect-id": "d13669b1ac7b45838746a8b6bf89867c"
+		},
+		{
+			"name": "Bottles in a Bottle",
+			"description": "放下两瓶药水",
+			"item-id": "f83096ef1b674f6c832dec65a4a3d758",
+			"effect-id": "383721ef682c4c8cbe6a5f7e2a6b4873"
+		},
+		{
+			"name": "Chest in a Bottle",
+			"description": "投下一个随机的箱子",
+			"item-id": "15c7f082e7454fc38695e6152782bbf9",
+			"effect-id": "5d63c4ad96d74c929963a04aee6a22b2"
+		},
+		{
+			"name": "TRANSMUT3 in a Bottle",
+			"description": "将TRANSMUT3添加到房间中",
+			"item-id": "cda68d3762ef4aa6bc5b00e2f8eeec6d",
+			"effect-id": "b6739892a5f9444eb76a96b80870143c"
+		},
+		{
+			"name": "Altar in a Bottle",
+			"description": "生出祭坛",
+			"item-id": "f05bebbd21e04c468299c7763704f332",
+			"effect-id": "222727a1ac6c442bbef0635162cff95b"
+		},
+		{
+			"name": "Doppelbock",
+			"description": "召集一个替身和你一起工作",
+			"item-id": "6da20a3b58c3488c8b764ae90689cb04",
+			"effect-id": "6da20a3b58c3488c8b764ae90689cb04"
+		},
+		{
+			"name": "Transmutagen",
+			"description": "改变房间里所有的遗迹",
+			"item-id": "b12beb42d1b549e392b00d00a01520c9",
+			"effect-id": "3f3c01172dd845898f00cac3ae8c224e"
+		},
+		{
+			"name": "Metamorphim",
+			"description": "转化随身携带的遗物",
+			"item-id": "a72e7b460e8649b08298d8c4bf15f349",
+			"effect-id": "c54185b068ad4dd5a99ed6ca6687b658"
+		},
+		{
+			"name": "Mighty Metamorphim",
+			"description": "转化所有携带的文物",
+			"item-id": "06eea0e248e74a249d1fe9b3c92d0b70",
+			"effect-id": "72289e0235014c3db6964048fdc3a611"
+		},
+		{
+			"name": "Circle of Transmutation",
+			"description": "在一个小圆圈中转换物品，但使其易碎",
+			"item-id": "8a91e7875f294cb280f34898b5594f2d",
+			"effect-id": "1ec33c9a63e6451f8ab6b59d85b95087"
+		},
+		{
+			"name": "Berserker's Brew",
+			"description": "造成并承受更多的伤害",
+			"item-id": "200012b4fdb74289b228f292193cf146",
+			"effect-id": "200012b4fdb74289b228f292193cf146"
+		},
+		{
+			"name": "Ghost Pepper Sauce",
+			"description": "免疫火焰伤害并点燃自己",
+			"item-id": "b9c7849437254fcbbe60ab61143f1de5",
+			"effect-id": "b9c7849437254fcbbe60ab61143f1de5"
+		},
+		{
+			"name": "Toadvine's Tonic",
+			"description": "对毒药免疫，如果你能活下来的话",
+			"item-id": "2849e0d8002e4800936de05abbde0ed7",
+			"effect-id": "edb2515c037e4c849618926d13f201e4"
+		},
+		{
+			"name": "Numbing Cream",
+			"description": "减少来袭伤害",
+			"item-id": "9c0401cc3c9a4188a6b3c800215b557d",
+			"effect-id": "9c0401cc3c9a4188a6b3c800215b557d"
+		},
+		{
+			"name": "Potion of True Sight",
+			"description": "发现附近的秘密",
+			"item-id": "e50bae2f580c4159a881f6c7852ca586",
+			"effect-id": "e50bae2f580c4159a881f6c7852ca586"
+		},
+		{
+			"name": "Potion of Plenty",
+			"description": "扔掉一些有用的东西",
+			"item-id": "8372b8d3152445afa410b7bb9dbd45a8",
+			"effect-id": "e9f869553031481faf86e6b3ada7e75e"
+		},
+		{
+			"name": "Protein Shake",
+			"description": "滴一些蛋白质",
+			"item-id": "84e344cdca10420a9db29efbd3d1dc72",
+			"effect-id": "ca789a9a294d4ed9b83c997071cae608"
+		},
+		{
+			"name": "Blessed Blend",
+			"description": "投下祝福",
+			"item-id": "a716c2ee1f634d74af7cc84ff341d374",
+			"effect-id": "8e75ca40d7eb460c92f99829ffa94f88"
+		},
+		{
+			"name": "Toxin",
+			"description": "在你的武器上涂上毒药",
+			"item-id": "4bbe9f7680b34a17a1ca6dfc90c725e7",
+			"effect-id": "4bbe9f7680b34a17a1ca6dfc90c725e7"
+		},
+		{
+			"name": "Witch's Brew",
+			"description": "被诅咒",
+			"item-id": "c0a32814b2e24d15a63664bcdc949d26",
+			"effect-id": "b059c170ca1c438782536ec456704c52"
+		},
+		{
+			"name": "Freeloader Draught",
+			"description": "不劳而获",
+			"item-id": "145bde979116479fabc648bebf584e32",
+			"effect-id": "f6956009d6504b7384eebfa9a3198290"
+		},
+		{
+			"name": "Biscuits",
+			"description": "为了获得熟悉的经验。",
+			"item-id": "6a41bdb034dd45549825a7b4f9198362",
+			"effect-id": "6a41bdb034dd45549825a7b4f9198362"
+		},
+		{
+			"name": "Midas Touch",
+			"description": "一切敌人都会变成金子",
+			"item-id": "17392f3e7d05485a800ddcd201bfb98c",
+			"effect-id": "174e5d81496d4f128eb2dd6c738aa991"
+		},
+		{
+			"name": "Kiss of the Succubus",
+			"description": "杀死所有敌人并偷走他们的生命",
+			"item-id": "4f9154518bfe4a0ebd09e57aef8ebdf9",
+			"effect-id": "0dd6ce41255748ccab851155aa142a48"
+		},
+		{
+			"name": "All-Potion",
+			"description": "是你想要的东西",
+			"item-id": "5829b0cc3f6149da9649aa302cf7ca57",
+			"effect-id": "d20987dc2f31431984773ffc281a24fc"
+		},
+		{
+			"name": "Some-Potion",
+			"description": "是你需要的东西，有时候",
+			"item-id": "ee6c6499fedf45d891ce5c3ee09b2da3",
+			"effect-id": "95a9f12d93d74012aea2606ce100d7cc"
+		},
+		{
+			"name": "Starlight Sip",
+			"description": "把天堂拉到你的敌人身上",
+			"item-id": "1cfe53e981a24b7cbbad91669f5ac52e",
+			"effect-id": "f1958e6f5d4e416497dc7d40b5489bce"
+		},
+		{
+			"name": "Churchbell Nectar",
+			"description": "创建一个临时的丘吉尔盾牌",
+			"item-id": "43f16c0b6aa94743a87c235025a7f98d",
+			"effect-id": "997f751df83546eb9c17daee9a6718de"
+		},
+		{
+			"name": "Pangolin Potion",
+			"description": "重新填充四个装甲点",
+			"item-id": "4c8d7e3454124c4aab32c45bf05edc8b",
+			"effect-id": "2dfc460581634d6f8213760584e8d21c"
+		}
+	]
+}

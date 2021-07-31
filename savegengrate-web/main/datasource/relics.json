@@ -1,0 +1,949 @@
+{
+	"code": 0,
+	"msg": "success",
+	"count": 157,
+	"data": [
+	  {
+		"name": "Wayland's Boots",
+		"description": "打破钉子，说出名字",
+		"item-id": "1981b4af04434077afafc78691056387",
+		"effect-id": "df4ddf16dd4a45ef8695cdf3e7679ce2"
+	  },
+	  {
+		"name": "Galoshes",
+		"description": "在油和毒药上行走和跳跃",
+		"item-id": "25a2fe2d57a34b6598d34cbbb58fdeb0",
+		"effect-id": "a4a29157f46c4a539e3bbddd81cde3e9"
+	  },
+	  {
+		"name": "Float Boots",
+		"description": "空中漫步",
+		"item-id": "d2b0fec2b4cf44e8aa63b0aa94441fd5",
+		"effect-id": "2a1fa10af49a47d28b24f56077eee57e"
+	  },
+	  {
+		"name": "Lava Walkers",
+		"description": "走火入魔",
+		"item-id": "7ee59f418896447ca03ce09665771ae6",
+		"effect-id": "43eff4cddbd24b36931720f418920d5d"
+	  },
+	  {
+		"name": "Helios Boots",
+		"description": "火焰补丁持续时间更长，造成更多伤害",
+		"item-id": "a7ae4ce21346402ca6fe2ad0c09b1c14",
+		"effect-id": "c05ef86ba2054882959c51b24350e72b"
+	  },
+	  {
+		"name": "Heavy Boots",
+		"description": "再次在半空中跳跃，以授权方式着陆",
+		"item-id": "NaN",
+		"effect-id": "23f1ec241ee449419dfcf3db6ede4f8a"
+	  },
+	  {
+		"name": "Butcher's Cleaver",
+		"description": "有时从你的敌人那里丢肉",
+		"item-id": "fe3880cccffb46a6ba510453822df02b",
+		"effect-id": "1210bacc5fcb460ca07e95896df87cf6"
+	  },
+	  {
+		"name": "Key Blade",
+		"description": "增加每把钥匙的挥杆伤害",
+		"item-id": "637c8bf20a8d4e6da5bcd6bbbac68f12",
+		"effect-id": "951e2808ae0d4c42b1a29cd857f881e9"
+	  },
+	  {
+		"name": "Master Pickaxe",
+		"description": "射弹处于完全健康状态",
+		"item-id": "9919d2d2d31941f2a96f898d56e8d297",
+		"effect-id": "befda1eb80d645f9bb12e17ce56e6a28"
+	  },
+	  {
+		"name": "Miniaturizer",
+		"description": "投掷鹤嘴锄击中时召唤闪电",
+		"item-id": "49e257bc3ed04cde9e5b0a7089d7af10",
+		"effect-id": "fe10d95ade194b0f86ecaec29fc92466"
+	  },
+	  {
+		"name": "Doom Blade",
+		"description": "每次携带诅咒都会获得伤害",
+		"item-id": "212720105e1a4605b4d5bc4295a684cd",
+		"effect-id": "91b8a85969174799982d825415873dd4"
+	  },
+	  {
+		"name": "Battle Axe",
+		"description": "增加挥杆大小，但稍微降低挥杆伤害",
+		"item-id": "2d5d75f5824242b781e8295d5f25b996",
+		"effect-id": "e0ce88d289d4461896c3ef9fd2157692"
+	  },
+	  {
+		"name": "Glaive",
+		"description": "增加投掷尺寸。",
+		"item-id": "2e1f6f7792eb4409a359778402737ed1",
+		"effect-id": "daa208c4561c4a5abd52be778e9dbe31"
+	  },
+	  {
+		"name": "Masa",
+		"description": "减少投掷伤害，增加挥杆伤害",
+		"item-id": "05ad55b489ff4af28e34ab471ecd0640",
+		"effect-id": "8144d7dba6454abf84d594f2c1f6974c"
+	  },
+	  {
+		"name": "Mune",
+		"description": "减少挥杆伤害，增加投掷伤害",
+		"item-id": "78d8214111974925b1e2039f20b728cf",
+		"effect-id": "3e07f594a331417b88fcbbe5637bcdcf"
+	  },
+	  {
+		"name": "Masamune",
+		"description": "有时会立即杀死敌人",
+		"item-id": "c5791c753f7e42de8a2814bd4b17504a",
+		"effect-id": "c88199b42a0b4b03b3887b1d453cb1fa"
+	  },
+	  {
+		"name": "Suneater",
+		"description": "消耗所有当前和未来的祝福并将其转化为挥杆伤害",
+		"item-id": "f568bbf4ecb54daf9d7d472f06d97521",
+		"effect-id": "290689aa82ec4d7db053f7494cbbece8"
+	  },
+	  {
+		"name": "Vorpal Blade",
+		"description": "不进则退",
+		"item-id": "e161e4e3083948eaa22f9830394b1235",
+		"effect-id": "e05e3ce278a24c18899a38a7bcc27b49"
+	  },
+	  {
+		"name": "Twisted Blade",
+		"description": "增加每个携带诅咒的暴击几率",
+		"item-id": "66b7f22d45354e549d2a4a18ce9792f7",
+		"effect-id": "11bcd163ae2c4a0ba19237600b123a7d"
+	  },
+	  {
+		"name": "Obsidian Knife",
+		"description": "显著增加伤害，但被击中时会断裂。",
+		"item-id": "2945df6b2ea043dd94c67ba09aefbe2b",
+		"effect-id": "e5f374c38c33493ba6e2bc82b75c9a67"
+	  },
+	  {
+		"name": "Dirk's Hammer",
+		"description": "通过击打一个物品来改变它",
+		"item-id": "54d1936d55494194a42d56c6f314c763",
+		"effect-id": "c77a03a88f214e5dba0b92e48669d2ad"
+	  },
+	  {
+		"name": "Resurrection",
+		"description": "死而复生",
+		"item-id": "a8d3215241a94555866450ab791bc7e3",
+		"effect-id": "440e515219864ce6943973c411308094"
+	  },
+	  {
+		"name": "Gordon's Tunic",
+		"description": "减少元素伤害",
+		"item-id": "623c929400f44c05b07827fef3426e60",
+		"effect-id": "c89eae5774314d36b855d3ea12bbc527"
+	  },
+	  {
+		"name": "Breastplate",
+		"description": "将护甲点添加到健康栏",
+		"item-id": "b367a2746211405a8dda8d560f88b6d3",
+		"effect-id": "571d369d5dd44c24b7783e914a0800d1"
+	  },
+	  {
+		"name": "Pauldron",
+		"description": "将护甲点添加到健康栏",
+		"item-id": "53f62e71c29143f79a27abca6069f52b",
+		"effect-id": "2a74269a1ec84ab984621031ec063f1f"
+	  },
+	  {
+		"name": "Gauntlets",
+		"description": "将护甲点添加到健康栏",
+		"item-id": "2f342d2da24340b383d49f1fb9374e5a",
+		"effect-id": "5324ddcb6a4148eeb0d2d9dbacf7f7e7"
+	  },
+	  {
+		"name": "Greaves",
+		"description": "将护甲点添加到健康栏",
+		"item-id": "e930152d55884ffbb8a0ce9edd6a46f1",
+		"effect-id": "36721d531f51454e9ca97f99f11ee172"
+	  },
+	  {
+		"name": "Shield of Quills",
+		"description": "获得2点护甲，护甲增加伤害",
+		"item-id": "19dc5130b5404db7a09262d609d9b8ba",
+		"effect-id": "ea4d3f4689664e8e9729ce8f910c649d"
+	  },
+	  {
+		"name": "Blast Suit",
+		"description": "对友军炸弹的攻击无懈可击，增加炸弹伤害",
+		"item-id": "630bd51306d34a9c9de7b041f1a3caee",
+		"effect-id": "181beab6d4fc4bb4b1725575b8c5d4e2"
+	  },
+	  {
+		"name": "Hoodie's Pillow",
+		"description": "减少物理伤害",
+		"item-id": "ca4e94bdc2cc43329474ef40230aca52",
+		"effect-id": "27e20da3aed347018e33821f35ed5786"
+	  },
+	  {
+		"name": "Soul Guard",
+		"description": "减少并重定向对你最大生命值的伤害",
+		"item-id": "a1ca0abb4f8c47bbb719be48fb7fd470",
+		"effect-id": "fcf7c340d38743b39ab19139fb2e7658"
+	  },
+	  {
+		"name": "Wet Blanket",
+		"description": "立即灭火，但需要水费",
+		"item-id": "2a64aa4851c94841ae297322646e6bdc",
+		"effect-id": "bc336eefb70b414e9a7f381ea9f83272"
+	  },
+	  {
+		"name": "War Paint",
+		"description": "杀死敌人时增加攻击伤害和速度",
+		"item-id": "95c9369deaba40caa44b1b48989a6a17",
+		"effect-id": "049357f4cc6348468368da680e267ebd"
+	  },
+	  {
+		"name": "Battle Standard",
+		"description": "在战斗开始时增加移动、攻击和投掷速度",
+		"item-id": "fd702e9d2662490f886876ee598b15d7",
+		"effect-id": "01835ae333dd4b2e863c1cab8c6cf831"
+	  },
+	  {
+		"name": "Catalyst",
+		"description": "痊愈后，再次痊愈",
+		"item-id": "6bbe9142f1144e7cac6b0f2edf13cac9",
+		"effect-id": "16db3491f36a4f6899a90e1caeded685"
+	  },
+	  {
+		"name": "Selt's Egg",
+		"description": "在入口处产卵",
+		"item-id": "9b8997d8691144289338ddcb3bf76f51ecb92c9f921647a69fa3bcd95bb535e7",
+		"effect-id": "e368e9e9601a4e53b93c855916fa4b1a"
+	  },
+	  {
+		"name": "Electrified Orb",
+		"description": "环绕农民并在接触时震动敌人",
+		"item-id": "5482a1b1b71b433d886865f2394f2fcc",
+		"effect-id": "89718ac2e2394449a20f3ca35f399195"
+	  },
+	  {
+		"name": "Othermine Conduit",
+		"description": "可怕的手会攻击敌人",
+		"item-id": "cd5580348c4d4a3cbcba94eafc169f4a",
+		"effect-id": "54f81f94543d43d99302effce88021db"
+	  },
+	  {
+		"name": "Doll",
+		"description": "阻止接下来的几次诅咒。",
+		"item-id": "ca58b2a9d6cc4f56ae0699e33578a2e2",
+		"effect-id": "2a8b4896a0e347ffa6f96331f65bd32c"
+	  },
+	  {
+		"name": "Devotion",
+		"description": "在祭坛上祈祷两次",
+		"item-id": "d21a2fe3ce9d4fddb34a59dd4df3773f",
+		"effect-id": "f3a1c9d032734882a2b94b2f3ee0245a"
+	  },
+	  {
+		"name": "108 Beads",
+		"description": "在祭坛上祈祷时治愈",
+		"item-id": "4b36bbc087004750a1526304aef7b088",
+		"effect-id": "459b909d53d14c6c8ada4a3a45e9cb05"
+	  },
+	  {
+		"name": "Holy Guacamole",
+		"description": "寻找更多的祭坛房间",
+		"item-id": "80242154d4284cc6aab221292cb0ae93",
+		"effect-id": "f43b6cd8c56547d09275b48db5846189"
+	  },
+	  {
+		"name": "Sonic Boom",
+		"description": "扔得真快",
+		"item-id": "25d89c4cdce0444bb617016d3fa547d0",
+		"effect-id": "999c33fe95794e7da53ef286e3854967"
+	  },
+	  {
+		"name": "Sewing Kit",
+		"description": "你死的时候把你所有的金子都留下",
+		"item-id": "d8f7d033bec0417ab0b553f3a51a9a7f",
+		"effect-id": "8110d78251e94611b35e7b673b0f970e"
+	  },
+	  {
+		"name": "Simple Chest",
+		"description": "商店存货过剩",
+		"item-id": "b29ea427f7f64aa3a06c8e19a0495648",
+		"effect-id": "f120a5a06673456c9db702c654ac1a6a"
+	  },
+	  {
+		"name": "Meal Ticket",
+		"description": "现在就在店里免费吃东西！",
+		"item-id": "074da99ced7f4993b38cb90df3a27d84",
+		"effect-id": "399970a794994a668f8fb342af95425d"
+	  },
+	  {
+		"name": "Adventurer's Hat",
+		"description": "发现更多秘密房间",
+		"item-id": "6774d4be9573481f8e6fa97add614285",
+		"effect-id": "90ee14233cfe4249818d5ca2eb8ec122"
+	  },
+	  {
+		"name": "Adventurer's Whip",
+		"description": "发现更多宝藏室",
+		"item-id": "376feb7893994baf826df320010a2eae",
+		"effect-id": "0e7e31f44491456bb5f6268f2c2686c2"
+	  },
+	  {
+		"name": "Golden Idol",
+		"description": "发现更多的房间，致富",
+		"item-id": "bc3b600bea3d416391e2549c137fff63",
+		"effect-id": "8d05bd4c82d04ecb92f252721bb1dc01"
+	  },
+	  {
+		"name": "Totem of Life",
+		"description": "通过冒险来维持自己",
+		"item-id": "d6045725bae4407ea8492ff1e4fa7c3f",
+		"effect-id": "d67d79e1a05e4b4786762cd3f0134bd0"
+	  },
+	  {
+		"name": "Aphotic Charm",
+		"description": "在每个新房间治疗每个诅咒",
+		"item-id": "fe3df61649f84dd2b08492c1788d92af",
+		"effect-id": "28919928e5bb401291440ef927b80b6b"
+	  },
+	  {
+		"name": "Dillon's Claw",
+		"description": "当你暴击时造成更大的伤害",
+		"item-id": "2380817a345d4458b5630768a38f35a1",
+		"effect-id": "6ad637fd31d14b0890ace63d7502c003"
+	  },
+	  {
+		"name": "Shadow's Fang",
+		"description": "更高的致命一击几率",
+		"item-id": "6910c28b900043d48911f9ae27e343cf",
+		"effect-id": "17c69c40ca934368ba046afbdb3f6592"
+	  },
+	  {
+		"name": "Bramble Vest",
+		"description": "返回伤害但被放大",
+		"item-id": "815f242a079240b8833a32c5f408e03a",
+		"effect-id": "426d6734b50d42839957c9193684feeb"
+	  },
+	  {
+		"name": "Duplicator",
+		"description": "文物室是一个诱人的选择",
+		"item-id": "be05dceb707e415ca9224898a15bd1d3",
+		"effect-id": "7ec4995423b04e5ab3d5a346d84bfd9d"
+	  },
+	  {
+		"name": "Hyperstone",
+		"description": "提高攻击速度",
+		"item-id": "87447b9566774ef486aa065a51a2bf4e",
+		"effect-id": "e871507b2b434cde8aaff305d5547daf"
+	  },
+	  {
+		"name": "Miner's Flask",
+		"description": "更长时间地感受药剂的效果",
+		"item-id": "262277e1e3914d1aae80a2d9f5acb3bd",
+		"effect-id": "007263063c92486b919015f9c9acaae4"
+	  },
+	  {
+		"name": "Lunchbox",
+		"description": "储存一块食物以备日后食用",
+		"item-id": "1e47701bb3324ddfb2c097dda2506453",
+		"effect-id": "79c17ac6ec1b4a578101c435bc982fad"
+	  },
+	  {
+		"name": "Large Ember",
+		"description": "点燃附近的敌人",
+		"item-id": "2725a7b0032447a98b7604d29395317a",
+		"effect-id": "d46d62559d084690b7732d3ba29487d4"
+	  },
+	  {
+		"name": "Popcorn",
+		"description": "项目有时会自我复制",
+		"item-id": "70965440d15240d1a7ac7c8ddff4c9b2",
+		"effect-id": "c000b0766bf14e15be15c8b0388f39cd"
+	  },
+	  {
+		"name": "Golden Popcorn",
+		"description": "黄金有时会自我复制",
+		"item-id": "6b18a3a60fe342f1833aff1526898e11",
+		"effect-id": "3476bec1a63c4fffb9699dc50c43046d"
+	  },
+	  {
+		"name": "Seasoned Popcorn",
+		"description": "食物有时会自我复制",
+		"item-id": "81b81569168949aeaea9412aea00601d",
+		"effect-id": "429ef0c052544c9c9442e323dc9f213c"
+	  },
+	  {
+		"name": "Caramel Popcorn",
+		"description": "复制食品包装令人惊讶",
+		"item-id": "586b91a55c884c48832f9503dd8947c2",
+		"effect-id": "1c2449de28a34fda9fe5c990045cb81b"
+	  },
+	  {
+		"name": "Pocket Grill",
+		"description": "煮你所有的食物",
+		"item-id": "ebb2f31ddd77460196d44fabcd18f57a",
+		"effect-id": "0407348b3edc45c0a0d3803fea4afd46"
+	  },
+	  {
+		"name": "Leftovers",
+		"description": "在箱子里找到又老又恶心的食物",
+		"item-id": "6851f6a8812f4bcbabaa9a2414ec70d5",
+		"effect-id": "323b849ba6144a67a3bdf03ce434e16f"
+	  },
+	  {
+		"name": "Spare Ordnance",
+		"description": "在每个箱子里发现一颗炸弹",
+		"item-id": "ed388fc9c09943bc987cf1c3388e8755",
+		"effect-id": "5ffaae53faf94dc2b9c2c08efa2d6636"
+	  },
+	  {
+		"name": "Miniaturizer",
+		"description": "在大盒子里找到小盒子",
+		"item-id": "f7eca5455bdf49fe9d2dafd4ec32d1e7",
+		"effect-id": "6d14a3252381487eb667daea5aea99e7"
+	  },
+	  {
+		"name": "Key Doubler",
+		"description": "有时在使用旧钥匙时会丢弃新钥匙",
+		"item-id": "5abbafb002b04ee495f179afdb550ffa",
+		"effect-id": "3ccf0b428250435a9e7de14be1ce5bcb"
+	  },
+	  {
+		"name": "Bomb Doubler",
+		"description": "有时在使用旧炸弹时投下新炸弹",
+		"item-id": "e56c7298c19e47d990140eceb14b95cc",
+		"effect-id": "c08a901c2f3646e5834cfe3a0e965ca8"
+	  },
+	  {
+		"name": "Double Doubler",
+		"description": "使用其中一种时，有机会掉落钥匙和炸弹",
+		"item-id": "fb374cc41c744cdbbbe227889cf001c4",
+		"effect-id": "94ce9288476e4d77a6ac9a5906ddcd0d"
+	  },
+	  {
+		"name": "Pilfer's Gift",
+		"description": "有幸从小偷那里得到两份礼物",
+		"item-id": "ec20d69533674c59a1af67db438bf172",
+		"effect-id": "52621e4f7e594616a21bd0325870d460"
+	  },
+	  {
+		"name": "Golden Powder",
+		"description": "把石头变成金子",
+		"item-id": "cad1d7d1cd454671ac62d6496c5aa49e",
+		"effect-id": "34a0fc86fcb6436d970b1e15f67d6b68"
+	  },
+	  {
+		"name": "Bombushka",
+		"description": "炸弹，在炸弹里，在炸弹里",
+		"item-id": "82d1d9ec3cb74d019e07ac5750e5433d",
+		"effect-id": "b013d56f64d24c91acbc136781b8ccb4"
+	  },
+	  {
+		"name": "Seer's Blood",
+		"description": "炸弹在一阵大火中爆炸",
+		"item-id": "04579544c0354d24a712f465b0a4a504",
+		"effect-id": "d8541923ed754682bedfe3bd90df18b2"
+	  },
+	  {
+		"name": "Rook's Bomb",
+		"description": "90度死亡",
+		"item-id": "96b62be9e4f04a329eed69ab143957aa",
+		"effect-id": "354c2f284b3f4420acdcdcb73e759168"
+	  },
+	  {
+		"name": "Bishop's Bomb",
+		"description": "45度死亡",
+		"item-id": "80c079e5b87345b28557d545c6f0131e",
+		"effect-id": "833d6ac4c9df415bb85875b32d189a6a"
+	  },
+	  {
+		"name": "Queen's Bomb",
+		"description": "四面八方的死亡",
+		"item-id": "78622bf8ccfb4b6b8f4ad11165615e88",
+		"effect-id": "1cd16e5483c547ac924ca9482fedadbf"
+	  },
+	  {
+		"name": "Transmutagen Blast",
+		"description": "转换项目",
+		"item-id": "079a976e3dd24ea8819941b9f81259c2",
+		"effect-id": "ae90e4f32247408fa170c85404944492"
+	  },
+	  {
+		"name": "Branding Bomb",
+		"description": "牺牲的炸弹品牌敌人，+10枚炸弹",
+		"item-id": "NaN",
+		"effect-id": "01dd414291604477aa1405b5683a29a3"
+	  },
+	  {
+		"name": "Lightning Bomb",
+		"description": "炸弹爆炸连锁闪电",
+		"item-id": "0948c27e6bf3483292c1e2e065499018",
+		"effect-id": "b218393482d64155861953f95b8667f6"
+	  },
+	  {
+		"name": "M.E.G.A. Bomb",
+		"description": "一堆带电的金子",
+		"item-id": "f3fc59fe276e4b5eb28425f43940c0f8",
+		"effect-id": "6b4fbafb16b2492499b4018884e86a72"
+	  },
+	  {
+		"name": "Blood Bomb",
+		"description": "从被炸弹炸死的敌人身上吸取生命",
+		"item-id": "5e270234064d40d08b17881eee751dfd",
+		"effect-id": "64bd42db7c7e4267b8107d4d022d2e69"
+	  },
+	  {
+		"name": "Tsar Bomba",
+		"description": "用炸弹杀死敌人会产生新的炸弹。携带的炸弹会减少挥杆和投掷伤害。",
+		"item-id": "7a06da12309d4136917c71be7772e055",
+		"effect-id": "d88203223f544ea6bfbdbbd16d4cb7e8"
+	  },
+	  {
+		"name": "U-235",
+		"description": "炸弹伤害与携带的炸弹数量成正比，+5炸弹",
+		"item-id": "c3cf34b72ca743f7986c53215ec3a358",
+		"effect-id": "bc720d3ef33e40de87fc9cc3278522a1"
+	  },
+	  {
+		"name": "Shrapnel",
+		"description": "友军炸弹发射炮弹",
+		"item-id": "8c781614f3e545cd9dc53a1862f87dc7",
+		"effect-id": "25e2f61085814d9caddf9c72bf4cbb45"
+	  },
+	  {
+		"name": "Gecko Blast",
+		"description": "炸弹爆炸吸引物品",
+		"item-id": "3640d085d4624902a191cefbacabd840",
+		"effect-id": "24d2d4296fb546739f8dec5a708a766a"
+	  },
+	  {
+		"name": "Capture Sphere",
+		"description": "炸弹死亡永久增加炸弹伤害",
+		"item-id": "fd98fd90983c49f49e88267708a16807",
+		"effect-id": "a5c75abdd69e4551bb75b9eb826ea5fc"
+	  },
+	  {
+		"name": "Remote Detonator",
+		"description": "想引爆炸弹就引爆",
+		"item-id": "a1231c3c35814d68aaae8d98cc882fd9",
+		"effect-id": "9174205fec034bcd95a9d2240b8c3ec6"
+	  },
+	  {
+		"name": "Short Wicks",
+		"description": "减少炸弹的冷却时间",
+		"item-id": "403c20cf86844b8ba5a495752f890817",
+		"effect-id": "99576d2061ce4c4fafc0e2d063c774ac"
+	  },
+	  {
+		"name": "Guantes",
+		"description": "把鹤嘴锄再用力一点",
+		"item-id": "724a50c9ac524f9fb3f527a5052e02a6",
+		"effect-id": "987e35491ec54376b57a907882b2796e"
+	  },
+	  {
+		"name": "Sequence Breaker",
+		"description": "传送到你的鹤嘴锄",
+		"item-id": "1808d1da72b540c1a611a560f5f89fb3",
+		"effect-id": "db237b7f272948d288a6f2df44450105"
+	  },
+	  {
+		"name": "Throwing Star",
+		"description": "投掷的鹤嘴锄穿透敌人和物体",
+		"item-id": "67aea971b4214697bb0cf4bdc4e904aa",
+		"effect-id": "fc255814eb7648559a3aec7b0f4ea2cb"
+	  },
+	  {
+		"name": "Guidance",
+		"description": "把扔来的鹤嘴锄弹回来",
+		"item-id": "b4e5f598694c439d8260e8539e0320b2",
+		"effect-id": "c1217e8a43e6494da60aff69e11cc152"
+	  },
+	  {
+		"name": "Phantasmal Axe",
+		"description": "投掷的镐会复制自己",
+		"item-id": "01e0ef72372d4531a4a1cdb3cc265f97",
+		"effect-id": "45456369fa044e2abb115898f060f7be"
+	  },
+	  {
+		"name": "Chakram",
+		"description": "投下一把旋转的死亡之刃",
+		"item-id": "830216e9492c484489ef90c303f07b68",
+		"effect-id": "eaf4191a4c554bb3adf786947b6d7941"
+	  },
+	  {
+		"name": "Fork",
+		"description": "分割你的远程攻击",
+		"item-id": "48f2bb8ba1f742ca830edfaa91772625",
+		"effect-id": "81e4afd743374d50b0186ef6d221cc70"
+	  },
+	  {
+		"name": "Bottled Lightning",
+		"description": "击中连锁闪电的机会",
+		"item-id": "b6f58486915b43b8bcd0004d74f9182b",
+		"effect-id": "bd762e07df9a4f39a012ebb9636696fb"
+	  },
+	  {
+		"name": "Salamander Tail",
+		"description": "击中后有机会点燃你的敌人",
+		"item-id": "efa267f58ead4081a7c8d7769a5e6bf8",
+		"effect-id": "2fbcef2fb8174cccae5c29c44ad3259a"
+	  },
+	  {
+		"name": "Crippling Poison",
+		"description": "有机会在命中时毒害你的敌人",
+		"item-id": "aede3a51037549b9b0eeeec881d5168e",
+		"effect-id": "04065cb0940445b9912492f2b13b90f2"
+	  },
+	  {
+		"name": "Caustic Vial",
+		"description": "被投掷的鹤嘴锄击中的敌人死亡时爆炸",
+		"item-id": "e25c4adfa3e04022ae18673db8f83276",
+		"effect-id": "7717c6fd23084fba93cd27a78ff25265"
+	  },
+	  {
+		"name": "Cracked Orb",
+		"description": "诅咒敌人，增加伤害",
+		"item-id": "0c33fc50f8d94d518803789c0b7f2185",
+		"effect-id": "652ca70944e048d6b96c3f6d8c2d52f3"
+	  },
+	  {
+		"name": "Ursine Ring",
+		"description": "增进健康",
+		"item-id": "9fcfbe4652be48ec82ea6a8431a18d37",
+		"effect-id": "89e440d42a2f44ef8d4bf99f8fd6bcf7"
+	  },
+	  {
+		"name": "Demon Ring",
+		"description": "增加挥杆伤害",
+		"item-id": "29799d6270d24f018cef3d360eebc5e7",
+		"effect-id": "327964741a6449fda89b95efc756b68a"
+	  },
+	  {
+		"name": "Mediocre Ring",
+		"description": "增加健康和伤害",
+		"item-id": "651c313904884b19afcd5a1da136c01c",
+		"effect-id": "49e3d5e06fbb452a99f239d9cfbfb017"
+	  },
+	  {
+		"name": "Berserker's Pendant",
+		"description": "在生命值较低时造成更多挥杆伤害",
+		"item-id": "3693999de5e94fcd81b5fcd53c13e8b4",
+		"effect-id": "d7aa255768cc4c37ab24ec06a33eafcd"
+	  },
+	  {
+		"name": "Axe Thrower's Pendant",
+		"description": "在生命值较低时造成更多投掷伤害",
+		"item-id": "2fe62c4bfc084a7a8516c18f23575fb3",
+		"effect-id": "7ae45ec37d694a3aa2879323e95cd120"
+	  },
+	  {
+		"name": "Knight's Pendant",
+		"description": "在高生命值时造成更多挥杆伤害",
+		"item-id": "10444b01cc944bdc92bbc183ecfd4dfe",
+		"effect-id": "238da59625f047b2b8e6e145b00352d1"
+	  },
+	  {
+		"name": "Archer's Pendant",
+		"description": "在高生命值时造成更多投掷伤害",
+		"item-id": "77af6531c8294f249cf55fd69c74bd8a",
+		"effect-id": "b18a27c35366424a9a8ad87ddbafbce4"
+	  },
+	  {
+		"name": "Iron Branch",
+		"description": "增加生命值、挥杆伤害和攻击速度",
+		"item-id": "e790a903a95240ffa6ff75f0c17475cd",
+		"effect-id": "73efa79907614717bf14bc6a211a9fee"
+	  },
+	  {
+		"name": "Queen's Crown",
+		"description": "增加投掷伤害、挥杆大小和挥杆速度",
+		"item-id": "e21cf8a29a6b4277b40ba59cb04c299b",
+		"effect-id": "0d5fcfc5097e451bb557c422c428b68e"
+	  },
+	  {
+		"name": "King's Crown",
+		"description": "增加挥杆伤害、投掷尺寸和投掷速度",
+		"item-id": "0248a19ceeb042c096a827dbcb5b10de",
+		"effect-id": "b6201c6ad35f4744ad35061cb4280261"
+	  },
+	  {
+		"name": "Emperor's Crown",
+		"description": "增加属性并获得祝福",
+		"item-id": "5efb8642758041cfb29b8555ce405f41",
+		"effect-id": "46b55b2a7e3f4b9aabcbd60b84ea4efd"
+	  },
+	  {
+		"name": "Pilfer Ring",
+		"description": "吸收黄金，在商店里打折",
+		"item-id": "6e31da144f9b4820a3442e42883a52e5",
+		"effect-id": "45f79621ee194b0e96bf9ab0546e1700"
+	  },
+	  {
+		"name": "Unstable Concoction",
+		"description": "黄金以爆炸力撞击地面",
+		"item-id": "7c1a74b4bc5e4398b2a10459f9b50b21",
+		"effect-id": "19c4b7a2790c443685db5dcf0a13d519"
+	  },
+	  {
+		"name": "Gold Tooth",
+		"description": "靠黄金养活自己",
+		"item-id": "9c707dd6871a44b7b7326ad378f41a38",
+		"effect-id": "8224a7c9424b4507bbc53ff780d8a6f2"
+	  },
+	  {
+		"name": "Golden Delicious",
+		"description": "所有的食物都是金色的，特别美味",
+		"item-id": "ebe6a743ac76455ea4771e300ebc0b7b",
+		"effect-id": "ab10cd3daa364654b75227b35b543a9c"
+	  },
+	  {
+		"name": "Conductor",
+		"description": "当你的敌人通电时，你会得到金子",
+		"item-id": "277d2316237d49109d6d1439f7df6e14",
+		"effect-id": "54fbbe48844b4acdb0d4d1f73baef293"
+	  },
+	  {
+		"name": "Gold Frenzy",
+		"description": "拾取黄金时获得暂时伤害",
+		"item-id": "0533edf2633049baa08a73d7ba5ef518",
+		"effect-id": "2c17d50b674043d192024669af343b57"
+	  },
+	  {
+		"name": "Intensifier",
+		"description": "杀死敌人时增加伤害",
+		"item-id": "7c3dcc99d36d4f6f8bcc2524ecdb93e8",
+		"effect-id": "b171647c3ba540309b6b64371c3a5519"
+	  },
+	  {
+		"name": "Floating Skull",
+		"description": "大多数情况下阻挡射弹的盾牌",
+		"item-id": "a596ffca42664024be1aeba28ad46f24",
+		"effect-id": "66c0fc8f90654bc988b8604d9b72c18a"
+	  },
+	  {
+		"name": "Grimhilde's Mirror",
+		"description": "回击炮弹",
+		"item-id": "23ed5e24dd3c420eacbf5c006e61be87",
+		"effect-id": "ec2ed98f555049e68d8268e0ed10de73"
+	  },
+	  {
+		"name": "Mirror Shield",
+		"description": "自动反射射弹",
+		"item-id": "db4baf760be740b99ff679a838ee3ee4",
+		"effect-id": "b63fbdf8d12b4c99bdb3753cf011be10"
+	  },
+	  {
+		"name": "Hungry Ghost",
+		"description": "榨取敌人的生命",
+		"item-id": "91f466ecbb87497b943eabd77f6e4681",
+		"effect-id": "afd75994728e4730b45063a8835ea07b"
+	  },
+	  {
+		"name": "Nullstone",
+		"description": "偶尔阻挡一次打击",
+		"item-id": "dd44a1f545ad48cda6d653cb6b5eaafb",
+		"effect-id": "472e2993550c48698025988aeb648f45"
+	  },
+	  {
+		"name": "Mushroom",
+		"description": "杀死敌人时获得最大生命值",
+		"item-id": "35ccd3bee9604d10988601bfecb53a3a",
+		"effect-id": "dc0312a890fd4b2393e7e4db91be8240"
+	  },
+	  {
+		"name": "Four Leaf Clover",
+		"description": "直接从敌人口袋里掏出金子",
+		"item-id": "eaf60a76dda742928cdd8f75d3e22eca",
+		"effect-id": "b4ed3b0c8b2f448382d52ca31c37f41b"
+	  },
+	  {
+		"name": "Tent",
+		"description": "将帐篷添加到楼层的起始房间，仅限一次使用",
+		"item-id": "69994ce940d94e439ab01d04a9c176e7",
+		"effect-id": "3396650b106648d98750b5ca54c3222a"
+	  },
+	  {
+		"name": "Aegis",
+		"description": "增加关键生命值的防御",
+		"item-id": "56fb37c63e434aa08fa3c868c3c4d9c3",
+		"effect-id": "b8a22809f913430cbcfd179d9e2cf9dc"
+	  },
+	  {
+		"name": "Map",
+		"description": "偷看一下你周围的环境",
+		"item-id": "fdf3edb47a594d0f870acabb1d82d433",
+		"effect-id": "4bad89d3c3554d42859efa3c0b8d23e9"
+	  },
+	  {
+		"name": "Petrified Rock",
+		"description": "增加物品从岩石上掉落的速度",
+		"item-id": "d537cbb8584b4a3fbe45f0ceef4f2ef1",
+		"effect-id": "507d1a7cbf21475cb3f480b9ef8c58bc"
+	  },
+	  {
+		"name": "Rat Bond",
+		"description": "对老鼠有吸引力",
+		"item-id": "3776afb876a74e50911b6d3080f0388d",
+		"effect-id": "dd02f72712f648e58728305c3ab4dabc"
+	  },
+	  {
+		"name": "Cosmic Egg",
+		"description": "为熟悉的用户增加经验增益",
+		"item-id": "97fbd863c09b44fa9605e675e7275f85",
+		"effect-id": "34877701997b45e98173ff5bd40862f7"
+	  },
+	  {
+		"name": "Birthing Pod",
+		"description": "消耗所有治疗直到出生",
+		"item-id": "3d321813e7904a1486d6243defa59cc3",
+		"effect-id": "c1a1ef3e9e9e4856b4df14b2662d56dd"
+	  },
+	  {
+		"name": "Pilfer Credit Card Silver",
+		"description": "A.",
+		"item-id": "898d87f98b184697ac89672f9bf955e4",
+		"effect-id": "21dc94cf49994b75a7965178a19d67dd"
+	  },
+	  {
+		"name": "Pilfer Credit Card Gold",
+		"description": "A.",
+		"item-id": "f83c843bf28e48afbb6f3aec7d5d0eed",
+		"effect-id": "17f014a742844fd69d56031bdce0ba70"
+	  },
+	  {
+		"name": "Pilfer Credit Card Black Edition",
+		"description": "限额和5%的现金返还！",
+		"item-id": "87dd4661d57b48c3812b4c962c00cc2e",
+		"effect-id": "814e5f1f467448b8ac2882a85592c888"
+	  },
+	  {
+		"name": "Four Leaf Cleaver",
+		"description": "有时从你的敌人身上扔下金色的肉",
+		"item-id": "189b6fc98b1849ea848523610481af7d",
+		"effect-id": "852a50adacfa447cbc704080ddbec16f"
+	  },
+	  {
+		"name": "Rabbit Gloves",
+		"description": "在每家商店都能买到免费商品",
+		"item-id": "f3973f00fda94bfbb4eed373ed28b775",
+		"effect-id": "0780dd974b484e52bd90bdfed49d9ce5"
+	  },
+	  {
+		"name": "Karmic Scale",
+		"description": "健康、伤害和治疗变得更小、更均匀",
+		"item-id": "4202645d8fa34a97a70ded11ee0f8f31",
+		"effect-id": "d874ff07c3bb4feba128dc6e44f677ad"
+	  },
+	  {
+		"name": "Pocket of Holding",
+		"description": "每个房间都有一些临时炸弹",
+		"item-id": "bab552535a104b059e636abfd7d05685",
+		"effect-id": "22b6e3deaece497ba1ea1e8233516878"
+	  },
+	  {
+		"name": "Lockpick",
+		"description": "免费打开锁，但要多长时间？",
+		"item-id": "4cf72d4585f64a95b4d614bd559e4d58",
+		"effect-id": "5e209720547a49d38cbdbfe623b9af06"
+	  },
+	  {
+		"name": "Lucky Charm",
+		"description": "避免死亡的机会",
+		"item-id": "5a5b61097a034cfeb6858d2d6c809af0",
+		"effect-id": "3fe862f303f84124a3ca55f026398e50"
+	  },
+	  {
+		"name": "Lucky Lockpick",
+		"description": "一个不死的机会，一个破碎的机会",
+		"item-id": "52d4e1bd77c84ec790991cf8e87d2ebc",
+		"effect-id": "5459c455b9ec49d8a04b071a8f172756"
+	  },
+	  {
+		"name": "Inverter",
+		"description": "失去的诅咒变成了祝福",
+		"item-id": "7b5f646318f3454dacb28fc75eb8c0f2",
+		"effect-id": "de0689dc68194f00bfb324e0d39e3590"
+	  },
+	  {
+		"name": "Recycler",
+		"description": "销毁物品的空箱子",
+		"item-id": "82b826e6d3044504bfa46c4caa6f1b0b",
+		"effect-id": "7865ea1123c44dfeb47c60038795bf6a"
+	  },
+	  {
+		"name": "Fan of Knives",
+		"description": "投掷时释放匕首喷雾",
+		"item-id": "0682d92aff14474d895c2e91f8826f25",
+		"effect-id": "c23a5b7a7dd34f8f9b075ce13f6a155b"
+	  },
+	  {
+		"name": "Kurtz' Stache",
+		"description": "招致灾难的神秘盒子",
+		"item-id": "f5e0082e84c74286829fa52bf633cbeb",
+		"effect-id": "26eb8914c8cd43b39d1f5bad52b4a0f8"
+	  },
+	  {
+		"name": "Glass Cannon",
+		"description": "增加伤害，但降低生命上限",
+		"item-id": "b7a8798a25ca4137a95538358085f2f4",
+		"effect-id": "35de3a889d7e48e3b5c6789afa1d526b"
+	  },
+	  {
+		"name": "Soul Cannon",
+		"description": "摆动时发射炮弹",
+		"item-id": "2e8dd836a09f4e47b57e23b4d00f16ec",
+		"effect-id": "23552eed8db8460bb556e721d13a17c3"
+	  },
+	  {
+		"name": "Ara",
+		"description": "祈祷后消耗未来的诅咒",
+		"item-id": "ecc0480e43924477ad68b3e9beb631b3",
+		"effect-id": "14dfd3eea8ea4e2cbddb9c9bfacc35b8"
+	  },
+	  {
+		"name": "Ursa Major",
+		"description": "增加进食后的最大健康",
+		"item-id": "6ca902940c004d7c957fe367f77e7337",
+		"effect-id": "328225531e2f43a286177d85fd946512"
+	  },
+	  {
+		"name": "Canis Major",
+		"description": "暴击暂时增加暴击几率",
+		"item-id": "4ca66dcd2df34cbcbef82e2c5cafd5fc",
+		"effect-id": "26d64f3c478e45e0bdb8173ff705b37d"
+	  },
+	  {
+		"name": "Sagitta",
+		"description": "敌人在暴击后会射出箭来",
+		"item-id": "993daf5814304f9da36d0080fe4b9cbc",
+		"effect-id": "abc8856bc0b64c61973c0f4eb18160e4"
+	  },
+	  {
+		"name": "Circinus",
+		"description": "临时显示密室，密室可以有密室",
+		"item-id": "7aedab48d5ca4e5b8d9f33a292ef38ef",
+		"effect-id": "633c1aeec47b4378a56f48ea7d965ea0"
+	  },
+	  {
+		"name": "Siegfried's Aegis",
+		"description": "给持票人带来痛苦",
+		"item-id": "24e76c8b632c48f78b0a3060d4d1f786",
+		"effect-id": "8697d8f359de429e88b743f8b07e973e"
+	  },
+	  {
+		"name": "Paladin Shield",
+		"description": "增加统计数据",
+		"item-id": "a6587dfd53e54a20ab1a167bc2b40e4a",
+		"effect-id": "7409d82802cb4b7d8d65d1dbe5d1f1b7"
+	  },
+	  {
+		"name": "Hot Cross Bun",
+		"description": "增加最大生命值，非常轻微",
+		"item-id": "5445617cf5a24b678e1680f88ba4f134",
+		"effect-id": "3104fc5c2b104138bf0f745111187928"
+	  }
+	]
+}

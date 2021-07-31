@@ -1,5 +1,9 @@
 # undermine-trainer
 
+CORS 请求不是 HTTP => 换用火狐浏览器，Chrome不支持
+
+
+
 ## 简介
 
 a process to gengerte save and edit save and trainer
@@ -46,21 +50,24 @@ a process to gengerte save and edit save and trainer
 
 - 金币
 - 紫晶
-- 
 
 
 
-#### 副本信息配置
+#### 副本信息配置（也是web页面的模块）
 
-- 圣物
-- 祝福
+- 圣物 + 祝福
+
+
+
 - 药水
-- 伙伴
-- 位置
-- 诅咒
-- 巫术
 
-- 
+
+
+- 伙伴
+
+
+
+- 诅咒+巫术配置
 
 
 

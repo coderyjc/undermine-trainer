@@ -1,0 +1,84 @@
+{
+	"code": 0,
+	"msg": "success",
+	"count": 24,
+	"data":[
+		{
+			"name": "Canary",
+			"description1": "拾取黄金",
+			"description2": "金币价值增加",
+			"description3": "提高拾取速度，可以拾取偷偷怪的黄金",
+			"effect-id": "4f2ebf67c2ab4103bba07ae33f8fce10"
+		},
+		{
+			"name": "Djinn",
+			"description1": "感知墙壁",
+			"description2": "感知楼梯",
+			"description3": "每过几个房间，就会给玩家宝藏",
+			"effect-id": "42c02406d29049eba350c408a44bd699"
+		},
+		{
+			"name": "Firebird",
+			"description1": "向敌人发射火球",
+			"description2": "减少/增加火焰伤害",
+			"description3": "增加对敌人的点燃时间",
+			"effect-id": "31d2663fef3248c8af2d6727453a83ef"
+		},
+		{
+			"name": "Nikko",
+			"description1": "近身攻击敌人",
+			"description2": "提高暴击几率",
+			"description3": "AOE攻击敌人",
+			"effect-id": "e6bc0264d4e14cdc866c93bfe318195e"
+		},
+		{
+			"name": "Sol's Phoenix",
+			"description1": "治疗",
+			"description2": "治疗时焚烧周围敌人",
+			"description3": "复活",
+			"effect-id": "f85e0301401b414b811f17c6a84506d2"
+		},
+		{
+			"name": "Sylph",
+			"description1": "祭坛忏悔消耗降低",
+			"description2": "可以使用两次祭坛",
+			"description3": "在受到祝福时收到二级祝福",
+			"effect-id": "966adf72347c4f35bf9f3789d6b7ee18"
+		},
+		{
+			"name": "Spirit",
+			"description1": "额外药水槽位",
+			"description2": "宝箱中有几率额外掉落药水",
+			"description3": "引用药水的时候可能再掉落一瓶药水",
+			"effect-id": "25cb114d9617483a8be3c9c7ddb8ee39"
+		},
+		{
+			"name": "Thunderbird",
+			"description1": "偶尔向敌人发射闪电",
+			"description2": "减少/增加闪电伤害",
+			"description3": "闪电能连锁更多敌人",
+			"effect-id": "839ad2905954481cb294f4b6cd01ff34"
+		},
+		{
+			"name": "Chaos Spawn",
+			"description1": "每层开始随机获得一个帮助或者诅咒",
+			"description2": "如果第一次抽到了诅咒，则再抽一次",
+			"description3": "一层中收到了：诅咒、祝福、治疗、受伤、进入秘密房间，则生成圣物",
+			"effect-id": "9d1c4ac6c24f4dfdb29a48457c1c49e6"
+		},
+		{
+			"name": "Eidolon",
+			"description1": "最大生命的一部分转化为2点护甲",
+			"description2": "敌人有几率掉落护甲片",
+			"description3": "失去护甲时造成一次毁灭性爆炸",
+			"effect-id": "97b65bd7fb0e420e87e88345312624c5"
+		},
+		{
+			"name": "Lesser Demon",
+			"description1": "击败敌人时移除一个诅咒，并储存",
+			"description2": "光束攻击敌人",
+			"description3": "穿透上海，并每吞噬一个诅咒就增加伤害和范围",
+			"effect-id": "157bcafd3635443485e1676d182197b9"
+		}
+	]
+}
