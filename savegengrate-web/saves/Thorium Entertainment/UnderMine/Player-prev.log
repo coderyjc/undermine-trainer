@@ -1,0 +1,151 @@
+Mono path[0] = 'L:/Entertain/UnderMine/UnderMine.v1.1.1.21/UnderMine_Data/Managed'
+Mono config path = 'L:/Entertain/UnderMine/UnderMine.v1.1.1.21/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.9f1 (50fe8a171dd9)
+[Subsystems] Discovering subsystems at path L:/Entertain/UnderMine/UnderMine.v1.1.1.21/UnderMine_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   26.21.14.4223
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.063 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.446800 ms
+[FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+██╗   ██╗███╗   ██╗██████╗ ███████╗██████╗ ███╗   ███╗██╗███╗   ██╗███████╗
+██║   ██║████╗  ██║██╔══██╗██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔════╝
+██║   ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║█████╗
+██║   ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══╝
+╚██████╔╝██║ ╚████║██████╔╝███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║███████╗
+ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
+星期日, 01 八月 2021 16:36:31
+Version [1.1.1.21]
+
+OS [Windows 10  (10.0.0) 64bit/3CF011FDB0AB/False]
+
+Install path [L:\Entertain\UnderMine\UnderMine.v1.1.1.21]
+
+ComputeShader [True]
+
+DeviceType [Direct3D11]
+
+DeviceVersion [Direct3D 11.0 [level 11.1]]
+
+ShaderLevel [50]
+
+Initializing Steam
+Initializing Data
+Initializing LocStrings
+Successfully loaded 3269 Chinese LocIDs into the LocDB
+Initializing Achievements
+Initializing Chat
+InternalError 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initializing Stats
+Initializing Encounters
+Initializing Popups
+Initializing HUD
+Initializing Simulation
+Initializing FX
+Initializing Stages
+Initializing Rooms
+Initializing GameOver
+Initializing Decorators
+Initializing Resources
+Initializing Audio
+Initializing Materials
+Initializing Settings
+Initializing Behaviors
+Initializing Pool
+Done!
+Loading Crash Reporter
+Startup took 14.23567 seconds
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 530305.
+Total: 495.812300 ms (FindLiveObjects: 28.590100 ms CreateObjectMapping: 9.209500 ms MarkObjects: 457.563200 ms  DeleteObjects: 0.448800 ms)
+
+Loading Zone Title with seed 54108648
+Loading took 0.3216076s
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 532609.
+Total: 513.919100 ms (FindLiveObjects: 30.960700 ms CreateObjectMapping: 10.068700 ms MarkObjects: 471.803400 ms  DeleteObjects: 1.085200 ms)
+
+Loading Zone Mine5-1 with seed 21945753
+Skipping room [treasure_encounters]: Requirements not met
+Skipping room [secret]: Requirements not met
+Skipping room [secret]: Chance failed
+Skipping room [secret]: Requirements not met
+Skipping room [relic_altar]: Chance failed
+Skipping room [tribute_fountain]: Chance failed
+Loading took 2.190166s
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1313 unused Assets to reduce memory usage. Loaded Objects now: 541671.
+Total: 551.070000 ms (FindLiveObjects: 32.224400 ms CreateObjectMapping: 9.613500 ms MarkObjects: 507.306100 ms  DeleteObjects: 1.925400 ms)
+
+Loading Zone Title with seed 21945752
+Loading took 0.06741333s
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 540463.
+Total: 547.112100 ms (FindLiveObjects: 30.461300 ms CreateObjectMapping: 10.409200 ms MarkObjects: 505.852100 ms  DeleteObjects: 0.388900 ms)
+
+Loading Zone Mine5-1 with seed 21945753
+Skipping room [treasure_encounters]: Requirements not met
+Skipping room [secret]: Requirements not met
+Skipping room [secret]: Chance failed
+Skipping room [secret]: Requirements not met
+Skipping room [relic_altar]: Chance failed
+Skipping room [tribute_fountain]: Chance failed
+Loading took 1.522476s
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1367 unused Assets to reduce memory usage. Loaded Objects now: 541643.
+Total: 544.764000 ms (FindLiveObjects: 28.531900 ms CreateObjectMapping: 9.637600 ms MarkObjects: 504.928900 ms  DeleteObjects: 1.665100 ms)
+
+Loading Zone Title with seed 21945752
+Loading took 0.07577515s
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 540443.
+Total: 553.768000 ms (FindLiveObjects: 30.826700 ms CreateObjectMapping: 10.770100 ms MarkObjects: 511.780900 ms  DeleteObjects: 0.389700 ms)
+
+Loading Zone Hub with seed 61118245
+Loading took 0.9951782s
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1013 unused Assets to reduce memory usage. Loaded Objects now: 558324.
+Total: 611.513100 ms (FindLiveObjects: 39.282600 ms CreateObjectMapping: 10.981200 ms MarkObjects: 560.083600 ms  DeleteObjects: 1.165100 ms)
+
+Loading Zone Mine5-1 with seed 61118246
+Skipping room [treasure_encounters]: Requirements not met
+Skipping room [secret]: Chance failed
+Skipping room [secret]: Chance failed
+Skipping room [secret]: Requirements not met
+Skipping room [relic_altar]: Chance failed
+Skipping room [tribute_fountain]: Chance failed
+Loading took 1.50029s
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1064 unused Assets to reduce memory usage. Loaded Objects now: 560178.
+Total: 830.668700 ms (FindLiveObjects: 40.324700 ms CreateObjectMapping: 14.268600 ms MarkObjects: 773.322000 ms  DeleteObjects: 2.752900 ms)
+
+Loading Zone Mine5-2 with seed 61118247
+Skipping room [mushroom_apprentice]: Chance failed
+Skipping room [treasure_encounters]: Requirements not met
+Skipping room [secret]: Requirements not met
+Skipping room [secret]: Requirements not met
+Skipping room [secret]: Requirements not met
+Skipping room [relic_altar]: Chance failed
+Skipping room [tribute_fountain]: Chance failed
+Loading took 1.411255s

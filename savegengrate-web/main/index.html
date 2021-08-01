@@ -9,6 +9,7 @@
 		<script src="./js/blessings.js" type="text/javascript" charset="utf-8"></script>
 		<script src="./js/potions.js" type="text/javascript" charset="utf-8"></script>
 		<script src="./js/familiar.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/attr.js" type="text/javascript" charset="utf-8"></script>
 		<title>Undertale-存档生成器</title>
 	</head>
 	
@@ -63,7 +64,7 @@
 		<!-- 伙伴 -->
 		<script type="text/html" id="familiarToolbar">
 		  <div class="layui-btn-container">
-		    <button class="layui-btn layui-btn-sm" lay-event="getAllfamiliars">从选中药水生成存档数据</button>
+		    <button class="layui-btn layui-btn-sm" lay-event="getAllfamiliars">从选中伙伴生成存档数据</button>
 		  </div>
 		</script>
 		
@@ -74,20 +75,14 @@
 <!-- 主界面 -->		
 		<div class="main">
 		<!-- 副本信息配置 -->
-			
 			<div class="layui-collapse" lay-accordion="">
-				<div class="layui-colla-item">
-				  <h2 class="layui-colla-title">基础信息</h2>
-				  <div class="layui-colla-content layui-show">
-					  基础信息
-				  </div>
-				</div>
 			  <div class="layui-colla-item">
 			    <h2 class="layui-colla-title">圣物</h2>
 			    <div class="layui-colla-content layui-show">
 					<table lay-filter='relics' class="layui-hide" id="relics"></table>
 			    </div>
 			  </div>
+			  
 			  <div class="layui-colla-item">
 			    <h2 class="layui-colla-title">祝福</h2>
 			    <div class="layui-colla-content layui-show">
